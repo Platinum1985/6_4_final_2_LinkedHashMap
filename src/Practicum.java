@@ -52,5 +52,6 @@ public class Practicum {
         actors.add("Дэниел Крейг");    // 2015 007: Спектр
         actors.add("Дэниел Крейг");// 2021 Не время умирать
         actors.add("Жан Клоде Ван Дам");
+        actors.add("Фрунзик Мкртчян");
     }
 }
